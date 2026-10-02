@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "205ca1bd52a2e2fce5d31346",
+  "owner": "dytj76",
+  "repo": "page-5f0d3a5dc9dab1f48197e20f",
+  "title": "自由鲸(freewhale)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5f0d3a5dc9dab1f48197e20f",
+      "a": "自由鲸(freewhale)",
+      "b": "",
+      "entity": "自由鲸(freewhale)",
+      "brand": "自由鲸(freewhale)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "73a320b13984769a59b150331203583d85fa93e89f2fe7af77c22b5db99c52ee",
+      "content": {
+        "keyword1": "自由鲸(freewhale)",
+        "keyword2": "",
+        "primary_entity": "自由鲸(freewhale)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "自由鲸(freewhale)提供机场订阅与VPN网络加速服务，涵盖办公、流媒体与游戏场景，支持多端客户端下载、清晰配置流程及官方套餐说明。",
+          "AI_DESCRIPTION": "自由鲸(freewhale)提供机场订阅与VPN网络加速服务，涵盖办公、流媒体与游戏场景，支持多端客户端下载、清晰配置流程及官方套餐说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#F5F1E8;color:#143528;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",system-ui,sans-serif;font-size:16px;line-height:1.75}a{color:#1B5E3B}header,main,footer{max-width:1080px;margin:0 auto;padding:16px}header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;border-bottom:2px solid #2D6A4F;padding-top:20px} .logo{font-weight:700;font-size:1.2rem;color:#081C15;text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#1B4332;text-decoration:none;font-size:14px}h1{font-size:1.7rem;line-height:1.35;color:#081C15;margin:22px 0 10px}h2{font-size:1.32rem;color:#1B4332;margin:30px 0 12px;padding-bottom:6px;border-bottom:1px solid #95D5B2}h3{font-size:1.08rem;color:#2D6A4F;margin:18px 0 8px}p,li{word-wrap:break-word} .lead{font-size:1.04rem} .cols{display:flex;flex-wrap:wrap;gap:18px} .cols>section,.cols>aside{flex:1 1 280px;background:#FFFEFA;border:1px solid #CDE7D8;border-radius:8px;padding:16px 18px} .plans{display:flex;flex-wrap:wrap;gap:14px} .plan{flex:1 1 240px;background:#FFFEFA;border:1px solid #B7E4C7;border-radius:8px;padding:16px} .plan.featured{border:2px solid #1B5E3B;background:#E8F5EE} .price{font-size:1.35rem;font-weight:700;color:#1B5E3B} .muted{color:#3D5C4E;font-size:.92rem} .step{background:#FFFEFA;border-left:4px solid #2D6A4F;padding:12px 14px;margin:10px 0} .dl a{display:inline-block;margin:6px 8px 6px 0;padding:8px 12px;background:#1B5E3B;color:#F5F1E8;text-decoration:none;border-radius:4px;font-size:14px}details{background:#FFFEFA;border:1px solid #CDE7D8;padding:10px 14px;margin:8px 0;border-radius:6px}summary{font-weight:600;color:#1B4332} .ad{margin:22px 0;padding:14px;text-align:center;background:#E7F0E3;border:1px dashed #74C69D;color:#1B4332} .friends a{margin-right:12px;display:inline-block}footer{border-top:2px solid #2D6A4F;margin-top:36px;padding-bottom:36px;font-size:14px}ul{padding-left:1.2em}</style><header><a class=\"logo\" href=\"#top\">自由鲸(freewhale)</a><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#official\">官网说明</a></nav></header><main id=\"top\"><h1>自由鲸(freewhale) 官方网站</h1><p class=\"lead\">自由鲸是面向个人与团队的机场订阅与 VPN 网络加速服务。本页集中说明套餐差异、使用场景、客户端下载入口以及从订阅到连上节点的完整配置流程，方便你在官网完成选型与上手。</p><div class=\"cols\" id=\"intro\"><section><h2>品牌简介</h2><p>自由鲸(freewhale)把稳定访问、可预期延迟和清晰操作路径放在首位。服务形态是机场订阅：你按月或按年获取流量与设备额度，在常用客户端中导入订阅即可切换节点。线路覆盖普通节点池与 IPLC 专线，用于网页加速、流媒体解锁、远程办公和游戏优化。</p><p>我们在官网上公开基础版、旗舰版与团队版的流量、设备数与能力边界，避免把「全功能」写进每一个套餐。新用户建议先看配置流程，再按设备数量和流量选择方案，最后到客户端下载区获取对应系统的客户端。</p><p>自由鲸官网同时承担说明文档角色：节点用途、导入方式、故障排查都写在同一页面，减少在多个入口之间来回查找。</p></section><aside><h2>为何先看配置流程</h2><p>多数连接失败并非线路本身，而是订阅未更新、客户端内核过旧或选错协议。自由鲸把配置流程放在页面中部：选套餐、复制订阅、下载客户端、导入并更新、按场景选节点。按顺序操作，可在数分钟内完成首次连接。</p><p>旗舰版与团队版额外提供工单或客户经理通道，适合把加速器当作日常办公基础设施的用户。基础版足以覆盖浏览、轻度流媒体与三台设备同时在线。</p><p><a href=\"#guide\">直接阅读配置流程</a> · <a href=\"#download\">前往客户端下载</a></p></aside></div><h2 id=\"plans\">套餐与机场订阅</h2><p>以下为自由鲸当前公开方案。年付按十个月计价。流量为每月重置的极速流量额度，超出后可等待次月重置或升级套餐。设备数指可同时在线的终端，不是绑定台数上限。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">按流程开通基础版</a></p></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">按流程开通旗舰版</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">按流程开通团队版</a></p></article></div><h2 id=\"scenes\">使用场景</h2><h3>远程办公与云协作</h3><p>视频会议、代码仓库、设计稿同步和云桌面需要连续会话。建议使用旗舰版 IPLC 或团队版 VIP 节点，并在客户端为办公域名设置分流，避免把全部国内流量绕行海外。</p><h3>资料查阅与公开课</h3><p>学术镜像、文档站点与公开课程平台对延迟不极端敏感，但对可用性要求高。基础版普通线路节点池即可覆盖多数查阅场景；若需长时间下载，预留流量或选择更高额度套餐。</p><h3>国际流媒体</h3><p>基础版面向常见平台的基础解锁；旗舰版强调全节点原生解锁，减少因共享出口导致的播放中断。播放前在客户端更新订阅，选择标注流媒体的区域节点。</p><h3>游戏加速</h3><p>对延迟抖动敏感的对战与登录，优先走 IPLC 专线。将游戏进程或端口加入代理规则，大厅与下载可分流。团队版高带宽节点适合多人同时在线。</p><h3>差旅与多设备</h3><p>手机、笔记本与平板同时在线时，按套餐设备数规划。差旅切换网络后，先更新订阅再连接；若公司网络限制 UDP，改用客户端中的 TCP 或兼容协议。</p><h2 id=\"guide\">配置流程与操作说明</h2><p>自由鲸的上手路径固定为五步。请按顺序执行，不要在未导入订阅时反复切换节点。</p><div class=\"step\"><h3>第一步：在官网确认套餐</h3><p>对照设备数、月流量和是否需要 IPLC / 原生流媒体。个人轻度使用选基础版；常看流媒体或需要游戏加速选旗舰版；工作室或多终端选团队版。年付适合确定会连续使用十个月以上的用户。</p></div><div class=\"step\"><h3>第二步：完成订阅并复制链接</h3><p>在用户中心找到「订阅地址」或「Clash / 通用订阅」。复制完整 URL，不要手动删减 token。若提供单独的二维码，仅在手机客户端内扫描，避免把订阅发到公开聊天。</p></div><div class=\"step\"><h3>第三步：下载对应客户端</h3><p>Windows 与 macOS 使用桌面客户端或 Clash 系内核；Android 使用兼容订阅的加速器客户端；iOS 使用商店内可导入订阅的工具。到本页<a href=\"#download\">客户端下载</a>选择系统，安装后不要并行开启多个代理内核，以免端口冲突。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>打开客户端的「配置 / 订阅 / Profiles」，粘贴链接并命名为「自由鲸」。执行一次「更新」。成功后应看到香港、日本、新加坡、美国等分组，以及旗舰与团队套餐中的 IPLC 或 VIP 列表。导入失败时检查是否复制了空格或使用了过期链接。</p></div><div class=\"step\"><h3>第五步：按场景选择节点并连接</h3><p>日常浏览选普通线路负载较低的节点；流媒体选对应地区且标注解锁的节点；游戏与会议选 IPLC。连接后访问状态页确认出口 IP 与延迟。若网页能开但应用不行，检查是否开启了系统代理或 TUN 模式。</p></div><h3>日常维护</h3><p>每周更新一次订阅。客户端提示内核过旧时再升级，不必频繁更换软件。公司网络异常时，尝试切换端口或协议，而不是连续更换十几个节点。流量将尽时在官网升级套餐，避免中断后才处理。</p><h2 id=\"download\">客户端下载</h2><p>以下为自由鲸官网整理的多端入口。请只通过本页锚点进入说明后再下载，避免来路不明的安装包。安装完成后回到配置流程第四步导入机场订阅。</p><p class=\"dl\"><a href=\"#download\">Windows 客户端</a><a href=\"#download\">macOS 客户端</a><a href=\"#download\">Android 客户端</a><a href=\"#download\">iOS 客户端说明</a><a href=\"#download\">Clash 系配置</a><a href=\"#download\">Surge / Quantumult 说明</a></p><p>Windows：安装后允许防火墙访问本地核心端口，开启系统代理。macOS：首次连接若提示网络扩展，需要在系统设置中允许。Android：建议开启分应用代理，避免银行类 App 走加速通道。iOS：需使用支持订阅的客户端，按商店规则获取，本站提供导入参数而非绕过商店的安装包。</p><h2>节点与线路说明</h2><p>普通线路节点池覆盖亚洲与北美常用区域，适合网页、消息和基础流媒体。IPLC 专线用于降低游戏与会议的抖动。VIP 高带宽节点面向团队版，适合多人并发与大文件同步。自由鲸不在页面上放置分数或用户评论榜，以免用无法核验的数字代替实际测速；请以你所在网络的延迟和稳定性为准。</p><p>建议在晚间高峰对常用节点各测一次。同一城市多个入口是为了分流，不是让你同时连接。若某入口持续超时，更新订阅后改同区域备用节点即可。</p><h2 id=\"official\">官网、官方身份与下载说明</h2><p>本页为自由鲸(freewhale)官方网站内容页，用于公布套餐、配置流程与客户端下载指引。以本站文案和用户中心内的订阅为准。所谓「官方下载」指针对各系统给出的客户端获取路径与导入方法，而不是把来源不明的第三方修改版当作官网安装包。</p><p>站点地图见页脚 sitemap 链接，便于检索套餐、场景、流程与问答。广告位与友链仅作导航与合作展示，不替代套餐说明。</p><div class=\"ad\" id=\"ad\">合作推广位：可在此展示与网络工具、云服务或办公软件相关的文字合作信息。推广内容与套餐价格、流量额度无关。</div><h2 id=\"faq\">常见问题</h2><details><summary>自由鲸是什么？和普通加速器有何不同？</summary><p>自由鲸(freewhale)是提供机场订阅的 VPN 网络加速服务。你购买的是按月流量、设备数和线路能力，而不是一次性破解软件。官网强调配置流程：订阅导入客户端后才能稳定使用。与只给一个节点文件的工具相比，订阅可以持续更新线路，不必每次手动替换配置。</p></details><details><summary>如何完成机场订阅并在客户端里用起来？</summary><p>先选择基础版、旗舰版或团队版，在用户中心复制订阅地址，下载对应系统客户端，于配置页粘贴链接并更新，再按场景连接普通节点或 IPLC。五步顺序见上方配置流程。不要把订阅链接发到公开群组，泄露后需要在官网重置。</p></details><details><summary>支持哪些设备？设备同时在线不够用怎么办？</summary><p>常见桌面与移动系统均可，只要客户端能导入通用订阅。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超过额度时，关掉长期挂机但不使用的终端，或升级套餐。同一账号在多台设备导入订阅是允许的，限制的是并发连接数。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>以流量和线路类型为主：每月约 100GB、三台设备、基础流媒体选基础版；需要原生解锁、游戏 IPLC 和优先工单选旗舰版；多人共用、定制路由和专属客户经理选团队版。年付适合长期使用。不确定时可先按月开通，确认节点与客户端习惯后再改年付。</p></details><details><summary>连上以后网页正常但流媒体或游戏不行？</summary><p>先更新订阅，改用标注解锁或 IPLC 的节点，并确认客户端处于规则模式而非全局把国内游戏平台也送出海外。流媒体避免频繁切换地区。游戏将进程加入代理列表，并关闭其他占用网卡的加速软件。仍失败时通过旗舰优先工单或团队客户经理提供客户端日志时间点。</p></details><details><summary>客户端应从哪里下载？能否只使用网页版？</summary><p>请使用本页客户端下载区给出的系统入口。网页无法完整替代本地内核，尤其是 UDP 游戏与系统级代理。iOS 需在系统允许的客户端中导入订阅。任何要求关闭安全软件或替换系统证书的第三方包都不要作为官方下载来源。</p></details><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>友链：<span class=\"friends\"><a href=\"#\">网络工具导航</a><a href=\"#\">隐私与安全阅读</a><a href=\"#\">远程办公手册</a><a href=\"#\">流媒体设置笔记</a><a href=\"#\">客户端兼容列表</a></span></p><p><a href=\"#\">站点地图 sitemap</a> · <a href=\"#ad\">广告合作</a> · <a href=\"#official\">官网说明</a> · <a href=\"#download\">官方下载</a></p><p>© 自由鲸(freewhale) 官方网站 · 机场订阅与 VPN 梯子网络加速服务 · 内容以本页套餐与配置流程为准</p></footer>",
+          "hash": "d14673797e93fe7e463ecdf134c2f95cdee8fd2e1c0f755d335859750531f64c",
+          "seo": {
+            "title": "自由鲸(freewhale)官网 | 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "自由鲸,freewhale,自由鲸机场,自由鲸VPN,自由鲸官网,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "自由鲸(freewhale)提供机场订阅与VPN网络加速服务，涵盖办公、流媒体与游戏场景，支持多端客户端下载、清晰配置流程及官方套餐说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nyvjlnn.cn",
+    "host": "p-7dccffcd3f.nyvjlnn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nyvjlnn.cn",
+      "url": "https://nyvjlnn.cn/",
+      "label": "东方网络",
+      "apex": "nyvjlnn.cn",
+      "kind": null,
+      "identity": "dsqtbfarhge/page-6271f6bae41ecd9672378f40"
+    },
+    {
+      "host": "czzthl.cn",
+      "url": "https://czzthl.cn/",
+      "label": "自由鲸(freewhale)",
+      "apex": "czzthl.cn",
+      "kind": null,
+      "identity": "qkhysdcbd/page-392c44ac4e996f4c47a5d759"
+    },
+    {
+      "host": "dandewl.cn",
+      "url": "https://dandewl.cn/",
+      "label": "自由鲸(freewhale)",
+      "apex": "dandewl.cn",
+      "kind": null,
+      "identity": "qujuvbnxk/page-4c277d37a41fe0fea09f7e47"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ae2d4d3576ca5dfd4b31cc865d8c1cccce650f26b2ea396112bd0aebaf73a85a",
+    "sitemap.xml": "f4cb8ffc7302fe41336e73c11fdf3ebce0d80ee195fad691b80c8766d8fd49a3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5c938d3ffd381ba357d4204f4b0c706cac0f50a7ffcb8297128b6fca7c9e50d5",
+    "robots.txt": "0e38ee6b768bd2734ab600f466961de4b2fbbac7feb29dc3350c34b143ce8ecd",
+    "cd5da463ba75494c86f2e822d3a67126.txt": "e2a5c8f8e2e4ed562fcb751fdda97ac8b605ee0d211244260abdc8c566590a9e"
+  },
+  "revision": "76df10220e3cb0e02b180952b48259c864dfdfc70efe4f564d37428dce38bebc"
+}
